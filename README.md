@@ -1,6 +1,6 @@
 #### This repository is an example repository for getting access token needed to validate Android receipts.
 
-- following step 1 below
+- follow step 1 below
 - replace `service-account.json` file to your account
 - `yarn start`
 
