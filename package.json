@@ -1,0 +1,16 @@
+{
+  "name": "iap-android-validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://Bang9@github.com/Bang9/iap-android-validation.git",
+  "author": "bang9dev <gusrn1423@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^44.0.0",
+    "open": "^7.0.0"
+  }
+}
