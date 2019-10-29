@@ -16,6 +16,8 @@
 ![image](screenshots/11.png)
 
 ### 2. Create your server
+Configure your server safely, this is just for reference! not safety!
+
 ```js
 const {google} = require('googleapis');
 const account = require('./service-account.json');
