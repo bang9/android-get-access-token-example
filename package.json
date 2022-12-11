@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^44.0.0",
     "open": "^7.0.0"
   }
